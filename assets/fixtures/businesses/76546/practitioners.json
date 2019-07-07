@@ -1,0 +1,134 @@
+{
+  "practitioners": [
+    {
+      "id": 120751,
+      "created_at": "2019-04-18T12:08:15Z",
+      "updated_at": "2019-06-24T10:05:17Z",
+      "active": true,
+      "designation": "Physiotherapist",
+      "description": "Meg has a special interest and competence in neurological conditions. For those who are looking to become fitter and stronger or maintain their strength and independence following a Stroke, Motor Neurone Disease or Multiple Sclerosis the Meg can help.\r\n\r\nAt The Physio Crew we pride ourselves on giving hope to those who are going through a difficult time. Many do not realise their potential and need someone to show them how to help themselves and improve their quality of life.\r\n\r\nMeg also has excellent skills in assisting athletes back onto the field. Her gentle, caring approach helps people who may have been suffering from long term injuries for some time.",
+      "display_name": "Meg",
+      "first_name": "Meg",
+      "last_name": "Borah",
+      "show_in_online_bookings": true,
+      "title": "Mrs",
+      "label": "Meg Borah",
+      "user": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/users/156137"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120751/appointments"
+        }
+      },
+      "appointment_types": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120751/appointment_types"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120751/invoices"
+        }
+      },
+      "practitioner_reference_numbers": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120751/practitioner_reference_numbers"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/practitioners/120751"
+      }
+    },
+    {
+      "id": 120808,
+      "created_at": "2019-04-20T10:20:12Z",
+      "updated_at": "2019-06-26T08:16:20Z",
+      "active": true,
+      "designation": "Massage Therapist",
+      "description": "Abbie is extremely popular for those who like firm pressure. As a premiership rugby player she is extremely strong and has almost completed her Sports Therapy Degree. Training and playing at Premiership level means she understands the demands of being an athlete and the pressure on staying at peak performance. She has a loyal following of customers who like her friendly, down to earth nature.\r\n\r\nWithin her degree she has studied a variety of joint mobilisations, soft tissue mobilisations and strength and conditioning modules to allow her to help people with injuries to recover.",
+      "display_name": "Abbie",
+      "first_name": "Abbie",
+      "last_name": "Parsons",
+      "show_in_online_bookings": true,
+      "title": "Miss",
+      "label": "Abbie Parsons",
+      "user": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/users/157098"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120808/appointments"
+        }
+      },
+      "appointment_types": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120808/appointment_types"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120808/invoices"
+        }
+      },
+      "practitioner_reference_numbers": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120808/practitioner_reference_numbers"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/practitioners/120808"
+      }
+    },
+    {
+      "id": 123488,
+      "created_at": "2019-05-27T17:06:51Z",
+      "updated_at": "2019-06-24T09:52:49Z",
+      "active": true,
+      "designation": "",
+      "description": "",
+      "display_name": "Patrick",
+      "first_name": "Patrick",
+      "last_name": "Shaughnessy",
+      "show_in_online_bookings": true,
+      "title": null,
+      "label": "Patrick Shaughnessy",
+      "user": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/users/160673"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/123488/appointments"
+        }
+      },
+      "appointment_types": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/123488/appointment_types"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/123488/invoices"
+        }
+      },
+      "practitioner_reference_numbers": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/123488/practitioner_reference_numbers"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/practitioners/123488"
+      }
+    }
+  ],
+  "total_entries": 3,
+  "links": {
+    "self": "https://api.cliniko.com/v1/businesses/76546/practitioners?page=1"
+  }
+}

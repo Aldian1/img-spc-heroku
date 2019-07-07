@@ -1,0 +1,223 @@
+{
+  "practitioners": [
+    {
+      "id": 120612,
+      "created_at": "2019-04-16T11:27:44Z",
+      "updated_at": "2019-06-26T09:21:54Z",
+      "active": true,
+      "designation": "Physiotherapist",
+      "description": "Nicole is a specialist sports physiotherapist and has a wide experience working with elite athletes ( including England Women Rugby Players) and amateur athletes. She has a special interest in the shoulder and has helped many runners manage injuries before competitions. Her own experience in sport has taught her the resilience needed and psychological impact of being out of training. This gives her the edge in helping you get back on track and expert knowledge to ensure you get the right advice and treatment. People experiencing non sporting injuries can benefit from her systematic approach without the delay of waiting for NHS treatment.",
+      "display_name": "Nicole",
+      "first_name": "Nicole",
+      "last_name": "Crewe",
+      "show_in_online_bookings": true,
+      "title": "Mrs",
+      "label": "Nicole Crewe",
+      "user": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/users/156114"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120612/appointments"
+        }
+      },
+      "appointment_types": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120612/appointment_types"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120612/invoices"
+        }
+      },
+      "practitioner_reference_numbers": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120612/practitioner_reference_numbers"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/practitioners/120612"
+      }
+    },
+    {
+      "id": 120613,
+      "created_at": "2019-04-16T11:34:47Z",
+      "updated_at": "2019-06-26T06:35:56Z",
+      "active": true,
+      "designation": "Physiotherapist",
+      "description": "Kamil stuck out in her interview due to the level of commitment she has to becoming a fantastic physio.\r\n\r\nWith excellent academic skills and a willingness to push herself in volunteer roles throughout her career has meant she has laid excellent foundations.\r\n\r\nIf you are looking for someone who will truly listen to your story and give expert, friendly advice then book in with Kamil.\r\n\r\nShe can quickly and accurately get to the bottom of the issue and give you the right advice, exercises and hands on treatment to get you back on track.\r\n\r\nWhether you are a tradesman desperate to get back to work, an elderly person who needs to work on their balance and independence or weekend warrior athletes who need to complete park run weekly to feel sane then Kamil will be right for you.",
+      "display_name": "Kamil",
+      "first_name": "Kamil",
+      "last_name": "Simpson",
+      "show_in_online_bookings": true,
+      "title": "Miss",
+      "label": "Kamil Simpson",
+      "default_appointment_type": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/361234"
+        }
+      },
+      "user": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/users/156134"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120613/appointments"
+        }
+      },
+      "appointment_types": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120613/appointment_types"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120613/invoices"
+        }
+      },
+      "practitioner_reference_numbers": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120613/practitioner_reference_numbers"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/practitioners/120613"
+      }
+    },
+    {
+      "id": 120751,
+      "created_at": "2019-04-18T12:08:15Z",
+      "updated_at": "2019-06-24T10:05:17Z",
+      "active": true,
+      "designation": "Physiotherapist",
+      "description": "Meg has a special interest and competence in neurological conditions. For those who are looking to become fitter and stronger or maintain their strength and independence following a Stroke, Motor Neurone Disease or Multiple Sclerosis the Meg can help.\r\n\r\nAt The Physio Crew we pride ourselves on giving hope to those who are going through a difficult time. Many do not realise their potential and need someone to show them how to help themselves and improve their quality of life.\r\n\r\nMeg also has excellent skills in assisting athletes back onto the field. Her gentle, caring approach helps people who may have been suffering from long term injuries for some time.",
+      "display_name": "Meg",
+      "first_name": "Meg",
+      "last_name": "Borah",
+      "show_in_online_bookings": true,
+      "title": "Mrs",
+      "label": "Meg Borah",
+      "user": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/users/156137"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120751/appointments"
+        }
+      },
+      "appointment_types": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120751/appointment_types"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120751/invoices"
+        }
+      },
+      "practitioner_reference_numbers": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120751/practitioner_reference_numbers"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/practitioners/120751"
+      }
+    },
+    {
+      "id": 120934,
+      "created_at": "2019-04-23T11:15:55Z",
+      "updated_at": "2019-06-25T17:00:59Z",
+      "active": true,
+      "designation": "Physiotherapist",
+      "description": "",
+      "display_name": "Ellen",
+      "first_name": "Ellen",
+      "last_name": "Winter",
+      "show_in_online_bookings": true,
+      "title": "Miss",
+      "label": "Ellen Winter",
+      "user": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/users/157258"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120934/appointments"
+        }
+      },
+      "appointment_types": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120934/appointment_types"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120934/invoices"
+        }
+      },
+      "practitioner_reference_numbers": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/120934/practitioner_reference_numbers"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/practitioners/120934"
+      }
+    },
+    {
+      "id": 123488,
+      "created_at": "2019-05-27T17:06:51Z",
+      "updated_at": "2019-06-24T09:52:49Z",
+      "active": true,
+      "designation": "",
+      "description": "",
+      "display_name": "Patrick",
+      "first_name": "Patrick",
+      "last_name": "Shaughnessy",
+      "show_in_online_bookings": true,
+      "title": null,
+      "label": "Patrick Shaughnessy",
+      "user": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/users/160673"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/123488/appointments"
+        }
+      },
+      "appointment_types": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/123488/appointment_types"
+        }
+      },
+      "invoices": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/123488/invoices"
+        }
+      },
+      "practitioner_reference_numbers": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/practitioners/123488/practitioner_reference_numbers"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/practitioners/123488"
+      }
+    }
+  ],
+  "total_entries": 5,
+  "links": {
+    "self": "https://api.cliniko.com/v1/appointment_types/361234/practitioners?page=1"
+  }
+}

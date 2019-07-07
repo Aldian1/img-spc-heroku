@@ -1,0 +1,536 @@
+{
+  "appointment_types": [
+    {
+      "id": 361233,
+      "created_at": "2019-04-16T11:27:44Z",
+      "updated_at": "2019-06-14T17:57:01Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Physiotherapy",
+      "color": "#ffb8fa",
+      "description": "This is for people who need a 30 minute follow session following a physiotherapy or sports therapy assessment.",
+      "duration_in_minutes": 30,
+      "max_attendees": 1,
+      "name": "Physiotherapy Follow Up Treatment",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/678015"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/361233/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/361233"
+      }
+    },
+    {
+      "id": 361234,
+      "created_at": "2019-04-16T11:27:44Z",
+      "updated_at": "2019-05-01T08:47:45Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Physiotherapy",
+      "color": "#FDCA86",
+      "description": "If you have a specific pain from overuse, no specific cause, sports injury or work related pain then a full assessment is required. This will allow us to get to the bottom and the issue and treat it with evidence based techniques.\nOur Chartered Physiotherapists will give you expert advice, hands on treatment, exercises and treatment to help you have long term relief of your symptoms.",
+      "duration_in_minutes": 45,
+      "max_attendees": 1,
+      "name": "Physiotherapy Initial Assessment",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/678016"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/361234/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/361234"
+      }
+    },
+    {
+      "id": 361768,
+      "created_at": "2019-04-18T12:40:37Z",
+      "updated_at": "2019-05-01T08:47:01Z",
+      "appointment_confirmation_template_ids": [],
+      "appointment_reminder_template_ids": [],
+      "category": "Offers for new patients",
+      "color": "#B8D9FF",
+      "description": "Why not book in for a 30 minute discovery call? You will have 30 minutes of uninterrupted time with one of our Chartered Physiotherapist to ask any questions you may have about your injury. We can give you basic advice over the phone and if you feel we are the right company for you we can follow you up in clinic. See whether physiotherapy is the best course of treatment or whether we recommend a different line of management.",
+      "duration_in_minutes": 30,
+      "max_attendees": 1,
+      "name": "FREE Discovery Call",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/682042"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/361768/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/361768"
+      }
+    },
+    {
+      "id": 362321,
+      "created_at": "2019-04-23T11:04:39Z",
+      "updated_at": "2019-04-23T11:04:39Z",
+      "appointment_confirmation_template_ids": [],
+      "appointment_reminder_template_ids": [],
+      "category": "Physiotherapy",
+      "color": "#B8D9FF",
+      "description": "We know it can be daunting when trying a new treatment or clinic. Thats why we offer you a free 15 minute massage to come and see us and decide whether we are the right company for you.",
+      "duration_in_minutes": 15,
+      "max_attendees": 1,
+      "name": "15min Free Shoulder Or Neck Massage",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362321/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362321"
+      }
+    },
+    {
+      "id": 362322,
+      "created_at": "2019-04-23T11:18:23Z",
+      "updated_at": "2019-05-01T08:43:08Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Massage",
+      "color": "#B8D9FF",
+      "description": "A one hour massage  appointment. Take advantage of lower rates for loyal customers that attend at least once per month.\n\nThis is our most popular package at just £35/ month. Click here to find out more info",
+      "duration_in_minutes": 60,
+      "max_attendees": 1,
+      "name": "Monthly Membership 60 minutes",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679595"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362322/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362322"
+      }
+    },
+    {
+      "id": 362323,
+      "created_at": "2019-04-23T11:19:37Z",
+      "updated_at": "2019-05-01T08:44:46Z",
+      "appointment_confirmation_template_ids": [],
+      "appointment_reminder_template_ids": [],
+      "category": "Massage",
+      "color": "#B8D9FF",
+      "description": "A 45 minute massage  appointment. Take advantage of lower rates for loyal customers that attend at least once per month.\n\nThis is our most popular package at just £30/ month.",
+      "duration_in_minutes": 45,
+      "max_attendees": 1,
+      "name": "Monthly Membership 45 minutes",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679599"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362323/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362323"
+      }
+    },
+    {
+      "id": 362324,
+      "created_at": "2019-04-23T11:20:36Z",
+      "updated_at": "2019-05-01T08:44:02Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Massage",
+      "color": "#B8D9FF",
+      "description": "A 30 minute massage  appointment. Take advantage of lower rates for loyal customers that attend at least once per month.\n\nThis is our most popular package at just £20/ month.",
+      "duration_in_minutes": 30,
+      "max_attendees": 1,
+      "name": "Monthly Membership 30 minutes",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679597"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362324/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362324"
+      }
+    },
+    {
+      "id": 362325,
+      "created_at": "2019-04-23T11:22:01Z",
+      "updated_at": "2019-05-01T08:48:11Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Sports Therapy",
+      "color": "#B8D9FF",
+      "description": "If you have had a sports injury, repetitive strain or pain at work Abbie can help. With her experience in elite rugby and degree in Sports Therapy she can helped you rehabilitate following injury.",
+      "duration_in_minutes": 45,
+      "max_attendees": 1,
+      "name": "Sports Therapy Assessment",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679601"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362325/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362325"
+      }
+    },
+    {
+      "id": 362326,
+      "created_at": "2019-04-23T11:23:13Z",
+      "updated_at": "2019-05-05T08:32:38Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Massage, Offers for new patients",
+      "color": "#B8D9FF",
+      "description": "For all new clients we offer a one hour sports or deep tissue massage. Massage is for people who have mild tightness and aches and are looking for  one off or regular massage to keep you feeling top of your game. If you have a specific injury massage is not always the most effective solution. \n\nIf you have a specific injury then you need a sports therapy assessment or physio assessment or book a massage and a complimentary discovery call to make sure you get the best result and quickest resolution of pain.",
+      "duration_in_minutes": 60,
+      "max_attendees": 1,
+      "name": "One Hour Intro Offer (£25 Sports or Deep Tissue Massage)",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/682044"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362326/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362326"
+      }
+    },
+    {
+      "id": 362328,
+      "created_at": "2019-04-23T11:24:03Z",
+      "updated_at": "2019-05-01T08:43:44Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Massage",
+      "color": "#B8D9FF",
+      "description": "This can be therapeutic (light pressure), sports (firm pressure) or deep tissue (deep pressure). When you come in we will discuss what you need and deliver the pressure you require.  This selection can also be used with Move GB.",
+      "duration_in_minutes": 60,
+      "max_attendees": 1,
+      "name": "Massage 60 minutes",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679598"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362328/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362328"
+      }
+    },
+    {
+      "id": 362330,
+      "created_at": "2019-04-23T11:24:58Z",
+      "updated_at": "2019-05-01T08:42:44Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Massage",
+      "color": "#B8D9FF",
+      "description": "This can be therapeutic (light pressure), sports (firm pressure) or deep tissue(deep pressure). When you come in we will discuss what you need and deliver the pressure you require. This selection can also be used with Move GB.",
+      "duration_in_minutes": 45,
+      "max_attendees": 1,
+      "name": "Massage 45 minutes",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679599"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362330/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362330"
+      }
+    },
+    {
+      "id": 362331,
+      "created_at": "2019-04-23T11:25:30Z",
+      "updated_at": "2019-05-01T08:42:23Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Massage",
+      "color": "#B8D9FF",
+      "description": "This can be therapeutic (light pressure), sports (firm pressure) or deep tissue(deep pressure). When you come in we will discuss what you need and deliver the pressure you require.  This selection can also be used with Move GB.",
+      "duration_in_minutes": 30,
+      "max_attendees": 1,
+      "name": "Massage 30 minutes",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679600"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362331/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362331"
+      }
+    },
+    {
+      "id": 362332,
+      "created_at": "2019-04-23T11:26:30Z",
+      "updated_at": "2019-05-09T11:26:56Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Massage",
+      "color": "#B8D9FF",
+      "description": "Choose this option if you have a Groupon voucher. One allowed per person. Not bought one yet? Choose our £25 intro offer instead.",
+      "duration_in_minutes": 60,
+      "max_attendees": 1,
+      "name": "Groupon (1 Hour)",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362332/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362332"
+      }
+    },
+    {
+      "id": 362333,
+      "created_at": "2019-04-23T11:27:12Z",
+      "updated_at": "2019-05-01T08:41:14Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Hydrotherapy",
+      "color": "#B8D9FF",
+      "description": null,
+      "duration_in_minutes": 30,
+      "max_attendees": 4,
+      "name": "Rehab Class : Hydrotherapy",
+      "show_in_online_bookings": true,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/682041"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362333/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362333"
+      }
+    },
+    {
+      "id": 362334,
+      "created_at": "2019-04-23T11:27:48Z",
+      "updated_at": "2019-05-02T10:57:28Z",
+      "appointment_confirmation_template_ids": [],
+      "appointment_reminder_template_ids": [],
+      "category": "Hydrotherapy",
+      "color": "#B8D9FF",
+      "description": null,
+      "duration_in_minutes": 45,
+      "max_attendees": 1,
+      "name": "Hydrotherapy Initial Assessment",
+      "show_in_online_bookings": false,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679603"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362334/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362334"
+      }
+    },
+    {
+      "id": 362335,
+      "created_at": "2019-04-23T11:28:18Z",
+      "updated_at": "2019-05-02T10:57:12Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [
+        346350,
+        346351
+      ],
+      "category": "Hydro",
+      "color": "#B8D9FF",
+      "description": null,
+      "duration_in_minutes": 30,
+      "max_attendees": 1,
+      "name": "Hydro Follow Up 30mins",
+      "show_in_online_bookings": false,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/679605"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/362335/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/362335"
+      }
+    },
+    {
+      "id": 364581,
+      "created_at": "2019-05-02T07:23:43Z",
+      "updated_at": "2019-05-02T07:23:43Z",
+      "appointment_confirmation_template_ids": [
+        346349
+      ],
+      "appointment_reminder_template_ids": [],
+      "category": "Physiotherapy",
+      "color": "#B8D9FF",
+      "description": "Physio home visit follow up appointment",
+      "duration_in_minutes": 45,
+      "max_attendees": 1,
+      "name": "Home Visit Follow Up",
+      "show_in_online_bookings": false,
+      "archived_at": null,
+      "billable_item": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/billable_items/683338"
+        }
+      },
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/appointment_types/364581/practitioners"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/appointment_types/364581"
+      }
+    }
+  ],
+  "total_entries": 17,
+  "links": {
+    "self": "https://api.cliniko.com/v1/appointment_types?page=1"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "businesses": [
+    {
+      "id": 76479,
+      "created_at": "2019-04-16T11:27:44Z",
+      "updated_at": "2019-05-02T07:23:43Z",
+      "address_1": "Xercise 4 Less Bristol, Unit 2, Channons Hill Retail Park",
+      "address_2": "Channons Hill, Fishponds",
+      "appointment_type_ids": [
+        361234,
+        361233,
+        361768,
+        362321,
+        362322,
+        362323,
+        362324,
+        362325,
+        362326,
+        362328,
+        362330,
+        362331,
+        362332,
+        364581
+      ],
+      "business_name": "Fishponds",
+      "business_registration_name": null,
+      "business_registration_value": null,
+      "city": "Bristol",
+      "country_code": "GB",
+      "contact_information": null,
+      "email_reply_to": null,
+      "post_code": "BS16 2EA",
+      "show_in_online_bookings": true,
+      "state": null,
+      "website_address": null,
+      "archived_at": null,
+      "country": "United Kingdom",
+      "deleted_at": null,
+      "label": "Fishponds (Bristol)",
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/businesses/76479/practitioners"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/businesses/76479/appointments"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/businesses/76479"
+      }
+    },
+    {
+      "id": 76546,
+      "created_at": "2019-04-18T12:23:46Z",
+      "updated_at": "2019-05-02T07:23:43Z",
+      "address_1": "10 Harbury Road",
+      "address_2": "Henleaze",
+      "appointment_type_ids": [
+        361233,
+        361234,
+        361768,
+        362321,
+        362322,
+        362323,
+        362324,
+        362325,
+        362326,
+        362328,
+        362330,
+        362331,
+        364581
+      ],
+      "business_name": "Henleaze",
+      "business_registration_name": null,
+      "business_registration_value": null,
+      "city": "Bristol",
+      "country_code": "GB",
+      "contact_information": null,
+      "email_reply_to": null,
+      "post_code": "BS9 4PL",
+      "show_in_online_bookings": true,
+      "state": null,
+      "website_address": null,
+      "archived_at": null,
+      "country": "United Kingdom",
+      "deleted_at": null,
+      "label": "Henleaze (Bristol)",
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/businesses/76546/practitioners"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/businesses/76546/appointments"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/businesses/76546"
+      }
+    },
+    {
+      "id": 76547,
+      "created_at": "2019-04-18T12:24:32Z",
+      "updated_at": "2019-05-02T07:23:43Z",
+      "address_1": "Freeways Hydrotherapy Pool Leigh Court Day Centre",
+      "address_2": "Pill Road",
+      "appointment_type_ids": [
+        361233,
+        361234,
+        361768,
+        362321,
+        362322,
+        362323,
+        362324,
+        362325,
+        362326,
+        362328,
+        362330,
+        362331,
+        362333,
+        362334,
+        362335,
+        364581
+      ],
+      "business_name": "Abbots Leigh",
+      "business_registration_name": null,
+      "business_registration_value": null,
+      "city": "Bristol",
+      "country_code": "GB",
+      "contact_information": null,
+      "email_reply_to": null,
+      "post_code": "BS8 3RA",
+      "show_in_online_bookings": true,
+      "state": null,
+      "website_address": null,
+      "archived_at": null,
+      "country": "United Kingdom",
+      "deleted_at": null,
+      "label": "Abbots Leigh (Bristol)",
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/businesses/76547/practitioners"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/businesses/76547/appointments"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/businesses/76547"
+      }
+    },
+    {
+      "id": 76548,
+      "created_at": "2019-04-18T12:25:25Z",
+      "updated_at": "2019-05-02T07:23:43Z",
+      "address_1": "Absolute Training and Nutrition",
+      "address_2": "The Studio 2, Pilland Way",
+      "appointment_type_ids": [
+        361233,
+        361234,
+        361768,
+        362321,
+        362322,
+        362323,
+        362324,
+        362325,
+        362326,
+        362328,
+        362330,
+        362331,
+        362332,
+        364581
+      ],
+      "business_name": "Barnstaple",
+      "business_registration_name": null,
+      "business_registration_value": null,
+      "city": "Barnstaple",
+      "country_code": "GB",
+      "contact_information": null,
+      "email_reply_to": null,
+      "post_code": "EX31 1AD",
+      "show_in_online_bookings": true,
+      "state": null,
+      "website_address": null,
+      "archived_at": null,
+      "country": "United Kingdom",
+      "deleted_at": null,
+      "label": "Barnstaple (Barnstaple)",
+      "practitioners": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/businesses/76548/practitioners"
+        }
+      },
+      "appointments": {
+        "links": {
+          "self": "https://api.cliniko.com/v1/businesses/76548/appointments"
+        }
+      },
+      "links": {
+        "self": "https://api.cliniko.com/v1/businesses/76548"
+      }
+    }
+  ],
+  "total_entries": 4,
+  "links": {
+    "self": "https://api.cliniko.com/v1/businesses?page=1"
+  }
+}
