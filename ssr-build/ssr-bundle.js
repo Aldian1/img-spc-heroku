@@ -6642,12 +6642,6 @@ var calendar_Calendar = function (_Component) {
 						)
 					);
 				})
-			),
-			Object(preact_min["h"])(
-				'div',
-				{ className: 'w-form' },
-				Object(preact_min["h"])('input', { type: 'submit', value: 'Go Back', className: 'submit-button w-button', onClick: props.back }),
-				Object(preact_min["h"])('input', { type: 'submit', disabled: !selected.slot, value: 'Confirm Date And Time', className: 'submit-button w-button', onClick: props.submit })
 			)
 		);
 	};
@@ -6725,7 +6719,7 @@ var dateandtime_DateAndTime = function (_Component) {
 				{ 'data-w-id': 'b76ee9d4-bc96-6001-21b2-373729f1ad63', className: 'panel left small' },
 				Object(preact_min["h"])(
 					'div',
-					{ className: 'info-container' },
+					{ className: 'info-container', style: { maxHeight: '100%' } },
 					Object(preact_min["h"])(
 						'div',
 						{ className: 'prac-portrait calendar-page' },
@@ -6752,13 +6746,19 @@ var dateandtime_DateAndTime = function (_Component) {
 						slot ? formatDateAndTime(slot) : 'Please select a time below'
 					),
 					dateandtime__ref,
-					dateandtime__ref2
+					dateandtime__ref2,
+					Object(preact_min["h"])(
+						'div',
+						{ className: 'w-form' },
+						Object(preact_min["h"])('input', { type: 'submit', value: 'Go Back', className: 'submit-button w-button', onClick: this.back }),
+						Object(preact_min["h"])('input', { type: 'submit', disabled: !slot, value: 'Confirm Date And Time', className: 'submit-button w-button', onClick: this.submit })
+					)
 				)
 			),
 			Object(preact_min["h"])(
 				'div',
 				{ 'data-w-id': 'b76ee9d4-bc96-6001-21b2-373729f1ad6c', className: 'panel calendar' },
-				Object(preact_min["h"])(calendar_Calendar, { selected: props.selected, updateSelections: props.updateSelections, selectPracFromMultiple: this.selectPracFromMultiple, back: this.back, submit: this.submit })
+				Object(preact_min["h"])(calendar_Calendar, { selected: props.selected, updateSelections: props.updateSelections, selectPracFromMultiple: this.selectPracFromMultiple })
 			)
 		);
 	};
